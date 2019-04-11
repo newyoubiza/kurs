@@ -1,1 +1,2 @@
 # kurs
+kursovaya very bad
